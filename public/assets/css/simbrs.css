@@ -1,0 +1,18 @@
+@font-face {font-family: "Humanst521";
+    src: url("//db.onlinewebfonts.com/t/c56754d51081528c5bd48dc76f580171.eot");
+    src: url("//db.onlinewebfonts.com/t/c56754d51081528c5bd48dc76f580171.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/c56754d51081528c5bd48dc76f580171.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/c56754d51081528c5bd48dc76f580171.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/c56754d51081528c5bd48dc76f580171.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/c56754d51081528c5bd48dc76f580171.svg#Humanst521 Lt BT") format("svg");
+  }
+  .HeadlineBrs{
+    font-family: Humanst521;
+    font-size: 75px;
+    color: #ffffff;
+    padding-left: 20px;
+  }
+  .headline{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
